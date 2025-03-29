@@ -11,7 +11,7 @@ Je suis une passionnée de Data Science et d'analyse de données, avec un solide
 
 ## Projets
 - **Prédiction de cyberattaques** : Développement d'un modèle pour prédire les types de cyberattaques à partir d'un jeu de données complexe, en utilisant des techniques avancées de feature engineering et d'optimisation de modèles avec LightGBM et CatBoost.
-- [Projet 1: Détection de Cyberattaques avec Machine Learning]() : Description courte du projet.
+- [Projet 1: Détection de Cyberattaques avec Machine Learning]() : Description courte du projet (https://github.com/mabialavalencia/D-tection-des-types-d-attaques-avec-machine-Learning/edit/main/README.md)
   
 - Développement d'un pipeline de machine learning end-to-end pour identifier et classer les types d'attaques cybernétiques à partir de données réseau. Utilisation de modèles avancés comme RandomForest, LightGBM, et CatBoost et déploiement via une application Flask:https://colab.research.google.com/drive/1J9m_LSlOOqgPCQqNDJu7qam9U5hsbic7?usp=sharing
 ## Compétences techniques
