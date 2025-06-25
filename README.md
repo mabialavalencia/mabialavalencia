@@ -10,6 +10,14 @@ Je suis une passionnée de Data Science et d'analyse de données, avec un solide
 - **Conception de Tableaux de Bord** : Compétences avancées dans la création de tableaux de bord interactifs sur Power BI et Looker pour visualiser et communiquer des données complexes.
 
 ## Projets
+# 📉 Prédiction du Churn Bancaire avec Streamlit
+
+Ce projet vise à prédire les départs de clients (churn) dans une banque à partir de leurs données personnelles et comportementales.
+
+L'application est déployée en local via **Streamlit** et repose sur un modèle **Random Forest** entraîné à partir du fichier `Churn_Modelling.csv`.
+Description et différents fichier pour la réalisation du projet:(https://github.com/mabialavalencia/churn-prediction-streamlit/tree/main)
+
+
 - **Prédiction de cyberattaques** : Développement d'un modèle pour prédire les types de cyberattaques à partir d'un jeu de données complexe, en utilisant des techniques avancées de feature engineering et d'optimisation de modèles avec LightGBM et CatBoost.
 - [Projet 1: Détection de Cyberattaques avec Machine Learning avec Python et Flask]() : Description courte du projet (https://github.com/mabialavalencia/D-tection-des-types-d-attaques-avec-machine-Learning/edit/main/README.md)
   
