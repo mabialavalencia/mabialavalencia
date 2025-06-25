@@ -48,12 +48,16 @@ Je suis une **passionnée de la Data** avec un solide bagage en mathématiques, 
 ## 🛠️ Compétences techniques
 
 **Langages** :  
-- Python (pandas, NumPy, Scikit-learn, Flask, Seaborn, Matplotlib)  
+- Python (pandas, NumPy, Scikit-learn, Flask, Seaborn, Matplotlib,LightGBM, CatBoost)  
 - SQL (BigQuery, PostgreSQL)
 
 **Outils & écosystème** :  
 - Jupyter, Git & GitHub, Spark, Streamlit, Flask, Power BI, Looker  
 - Déploiement : Streamlit, Flask, Pickle
+
+  **Modélisation & Validation**
+  - Cross-validation
+  - grid search , feature engineering
 
 ---
 
