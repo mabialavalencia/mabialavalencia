@@ -1,16 +1,16 @@
-# 👋 Bonjour, je suis Valencia Mabiala
+# 👋 Hello, moi c’est Valencia Mabiala
 
-Bienvenue sur mon profil GitHub !  
-Je suis une **passionnée de la Data** avec un solide bagage en mathématiques, une sensibilité produit, et une expertise dans la **valorisation des données pour la prise de décision stratégique**.
+Bienvenue sur mon GitHub, où je transforme des données complexes en **décisions simples, visuelles et stratégiques**.
+
+🎯 Je suis une passionnée de la data, avec un solide bagage en mathématiques, une sensibilité produit, et une expertise dans la **valorisation des données pour la prise de décision**.
 
 ---
 
 ## 🧠 À propos de moi
 
-🎯 **Mon objectif** : transformer les données brutes en insights pertinents et activables.  
-💻 **Langages & outils** : Python, SQL, Spark, Jupyter, Power BI, Streamlit, Git  
-🔍 **Expertise** : analyse exploratoire, modélisation prédictive, visualisation, déploiement d’applications
-
+- 🎯 **Mon objectif** : transformer les données brutes en **insights activables**.
+- 🧰 **Langages & outils** : Python, SQL, Spark, Jupyter, Power BI, Streamlit, Git
+- 📊 **Expertise** : analyse exploratoire, modélisation prédictive, visualisation, déploiement d’applications
 ---
 
 ## 💼 Expériences clés
@@ -47,28 +47,26 @@ Je suis une **passionnée de la Data** avec un solide bagage en mathématiques, 
 
 ### 📊 [Analyse des Remboursements Santé et Satisfaction des Adhérents – Power BI](https://github.com/mabialavalencia/Projet-powerbi-assurance)
 
-> Analyse interactive des données de remboursement santé et de satisfaction des adhérents.
-
-> Construction d’un tableau de bord Power BI pour visualiser les tendances, les motifs de remboursement et les niveaux de satisfaction.
-
-> Identification des axes d’amélioration et recommandations pour optimiser la gestion des contrats et la relation client.
-
+> Tableau de bord Power BI interactif analysant les remboursements santé et les retours adhérents.  
+> 🎯 Identification des motifs de remboursement, niveaux de satisfaction, et recommandations pour optimiser la gestion client.
 ---
 
 
 ## 🛠️ Compétences techniques
 
-**Langages** :  
-- Python (pandas, NumPy, Scikit-learn, Flask, Seaborn, Matplotlib,LightGBM, CatBoost)  
-- SQL (BigQuery, PostgreSQL)
+### 🔤 **Langages**
+- **Python** : pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, LightGBM, CatBoost
+- **SQL** : BigQuery, PostgreSQL
 
-**Outils & écosystème** :  
-- Jupyter, Git & GitHub, Spark, Streamlit, Flask, Power BI, Looker  
-- Déploiement : Streamlit, Flask, Pickle
+### 🧰 **Outils & Environnement**
+- Jupyter, Git & GitHub, Spark, Power BI, Looker
 
-  **Modélisation & Validation**
-  - Cross-validation
-  - grid search , feature engineering
+### 🤖 **Machine Learning**
+- Random Forest, LightGBM, CatBoost
+- Feature engineering, Grid search, Cross-validation
+
+### 🚀 **Déploiement**
+- Streamlit, Flask, Pickle
 
 ---
 
@@ -78,4 +76,6 @@ Je suis une **passionnée de la Data** avec un solide bagage en mathématiques, 
 - 📫 **Email** : mabialavalenciam@gmail.com
 
 
+> Je suis actuellement à la recherche d’opportunités en Data (freelance ou CDI), orientées **produit, analyse métier ou IA appliquée**.  
+> N'hésitez pas à explorer mes projets ou à me contacter pour en discuter ! 🚀
 
