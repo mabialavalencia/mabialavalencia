@@ -51,6 +51,9 @@ Je suis une **passionnée de la Data** avec un solide bagage en mathématiques, 
 > Construction d’un tableau de bord Power BI pour visualiser les tendances, les motifs de remboursement et les niveaux de satisfaction.
 > Identification des axes d’amélioration et recommandations pour optimiser la gestion des contrats et la relation client.
 
+---
+
+
 ## 🛠️ Compétences techniques
 
 **Langages** :  
