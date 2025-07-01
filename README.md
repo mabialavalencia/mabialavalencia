@@ -45,6 +45,12 @@ Je suis une **passionnée de la Data** avec un solide bagage en mathématiques, 
 
 ---
 
+### 📊 [Analyse des Remboursements Santé et Satisfaction des Adhérents – Power BI](https://github.com/mabialavalencia/Projet-powerbi-assurance)
+
+> Analyse interactive des données de remboursement santé et de satisfaction des adhérents.
+> Construction d’un tableau de bord Power BI pour visualiser les tendances, les motifs de remboursement et les niveaux de satisfaction.
+> Identification des axes d’amélioration et recommandations pour optimiser la gestion des contrats et la relation client.
+
 ## 🛠️ Compétences techniques
 
 **Langages** :  
